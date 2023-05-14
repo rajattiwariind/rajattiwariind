@@ -24,4 +24,5 @@ I am a student and i like to code.
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on my development
 - 💬 Ask me about coding
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username=rajattiwariind
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-rajattiwariind
