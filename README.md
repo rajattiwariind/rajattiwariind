@@ -25,4 +25,4 @@ I am a student and i like to code.
 - 👯 I’m looking to collaborate on my development
 - 💬 Ask me about coding
 ### :fire: My Stats :
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?username=rajattiwariind)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajattiwariind&theme=dark&background=000000)](https://git.io/streak-stats)
