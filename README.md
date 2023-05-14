@@ -18,6 +18,10 @@ I am a student and i like to code.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+I am a student and i like to code.
+
+- 🔭 I’m currently working on Android development.
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate on my development
+- 💬 Ask me about coding
+- 📫 How to reach me: ✉️ Email
