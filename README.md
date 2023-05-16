@@ -15,7 +15,11 @@ I am a student and i like to code.
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  
   </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=rajattiwariind&style=flat-square&color=blue" alt=""/>
+  
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajattiwariind&theme=dark&background=000000)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajattiwariind&theme=radical)
