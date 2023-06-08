@@ -5,7 +5,7 @@
 
  ### :man_technologist: About Me :
  
-I am a student and i like to code.
+### :I am a student and i like to code.
 
 - 🔭 I’m currently working on Android development.
 - 🌱 I’m currently learning java
