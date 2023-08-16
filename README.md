@@ -18,7 +18,7 @@
   
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=rajattiwariind&style=flat-square&color=blue" alt=""/>
+  
   
 
 
