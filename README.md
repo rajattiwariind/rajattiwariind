@@ -11,11 +11,15 @@
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on my development
 - 💬 Ask me about coding
+- ### 📲:Contect with me :
+- <img align="left" alt="rajat-tiwari-b61a78263 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  https://www.linkedin.com/in/rajat-tiwari-b61a78263/
 - ### :hammer_and_wrench: Languages and Tools :
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   </div>
+  
   
   
   
