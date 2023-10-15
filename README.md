@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/rajat-tiwari-b61a78263/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
+     <a href="https://www.hackerrank.com/rajatind12" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="rajatind12" height="30" width="130" /></a>
 </div>
 :hammer_and_wrench: Languages and Tools :
  <div>
