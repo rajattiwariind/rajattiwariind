@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/rajat-tiwari-b61a78263/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="rajatind12@gmail.com">
-  <img src="https://img.icons8.com/clouds/48/000000/email.png"/>
-  </a>
 </div>
  Languages and Tools :
  <div>
