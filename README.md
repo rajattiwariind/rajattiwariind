@@ -29,7 +29,7 @@
   <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   </div>
   <p> <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajattiwariind&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajattiwariind&theme=dark" alt="GitHub Streak" /></a>
 </div> </p>
   
   
