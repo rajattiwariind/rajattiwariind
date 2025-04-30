@@ -29,7 +29,6 @@
   <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   </div>
   <p> <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajattiwariind&theme=dark" alt="GitHub Streak" /></a>
 </div> </p>
   
   
