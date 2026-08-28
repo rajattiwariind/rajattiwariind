@@ -1,39 +1,75 @@
-### Hey, I'm Rajat Tiwari
-<div id="intro-img" align="center">
-    <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width=100></a>
-</div>
-<div id="about-me" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Rajat+Tiwari;It's+nice+to+meet+you!;" alt="Typing SVG" /></a>
-</div>
+# Hi, I'm Rajat Tiwari 👋
 
- ### :man_technologist: About Me :
- 
-### I am a student and i like to code.
-### 💻
-- 🔭 I’m currently working on Android development.
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on my development
-- 💬 Ask me about coding
-- ### 📲:Contect with me :
- <div id="badges" align="center">
+### Aspiring Software Developer | Java | Android Development | Problem Solving
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+%7C+Android+Development+%7C+SQL;Building+projects+and+solving+problems" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science graduate passionate about software development and building practical applications. I enjoy working with **Java, Android development, databases, and web technologies**. I am continuously improving my problem-solving skills and exploring new technologies.
+
+- 🔭 Currently working on **Android Development and Java projects**
+- 🌱 Currently learning **Java, Spring Boot, and Android Development**
+- 💻 Interested in **Software Development, Mobile Applications, and Backend Development**
+- 🤝 Open to collaborating on **Java and Android projects**
+- 🧠 Practicing **Data Structures and Algorithms**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" alt="Android" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Resume Analyzer
+An application that analyzes resumes against job descriptions, calculates an ATS score, identifies missing skills, and provides AI-based feedback.
+
+**Technologies:** Android, Java, FastAPI, Python, Room Database, Retrofit
+
+### 🎤 AI Interview Trainer
+A web application designed to help users practice interviews using speech recognition, text-to-speech, live transcripts, and confidence tracking.
+
+**Technologies:** HTML, CSS, JavaScript, Web APIs
+
+### 🛒 FarmConnect
+A direct-to-consumer marketplace platform designed to connect farmers and customers.
+
+**Technologies:** HTML, CSS, JavaScript, LocalStorage
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/rajat-tiwari-b61a78263/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
- Languages and Tools :
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
-  <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-  <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  </div>
-  <p> <div align="center">
-</div> </p>
-  
-  
-  
-  
-  
 
+  <a href="https://github.com/rajattiwariind">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
+---
+
+<p align="center">
+  <i>"Keep learning, keep building, and keep improving."</i>
+</p>
